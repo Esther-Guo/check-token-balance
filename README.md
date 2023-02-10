@@ -1,5 +1,5 @@
 # Web3 Get Balance Example
 
-In this example we connect our MetaMask wallet with Web3.js and extract the balance of Ether & different ERC20 tokens.
+This example builds upon this [repo](https://github.com/etereo-io/web3-example). 
 
-You can read more about it in our [blog post](https://blog.etereo.io/how-to-read-the-balance-of-your-metamask-wallet-with-web3-js-6d4c4c364225)
+In the demo, you can connect your MetaMask wallet with Web3.js and extract the balance of Ether & different ERC20/ERC721 tokens.
